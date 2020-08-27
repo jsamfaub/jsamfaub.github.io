@@ -15,10 +15,10 @@ h1 {
 h2 {
 	color: gold;
 }
-a {
+#link {
 	color: lime;
 }
-a:hover {
+#link:hover {
 	color: #99ff66;
 }
 #selectbar {
