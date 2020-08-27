@@ -37,3 +37,6 @@ a:hover {
 #ebay:hover {
 	border-style: solid;
 }
+li {
+	margin-bottom: 8px;
+}
