@@ -1,0 +1,39 @@
+p {
+	color: white;
+	width: auto;
+}
+body {
+	background-color: black;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right:auto;
+}
+h1 {
+	text-align: center;
+	color: gold;
+}
+h2 {
+	color: gold;
+}
+a {
+	color: lime;
+}
+a:hover {
+	color: #99ff66;
+}
+#selectbar {
+	text-align: center;
+}
+#selectbar a {
+	font-size: 1.5em;
+	border-style: solid;
+	border-color: grey;
+}
+#ebay {
+	padding: 8px 8px 8px 8px;
+	border-style: inset;
+	border-color: white;
+}
+#ebay:hover {
+	border-style: solid;
+}
